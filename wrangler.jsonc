@@ -7,7 +7,7 @@
   ],
   "pages_build_output_dir": "./dist",
   "route": {
-    "pattern": = "docs.underscoreofficial.com/cortexerr/*",
+    "pattern": "docs.underscoreofficial.com/cortexerr/*",
     "custom_domain": true
   }
 }
