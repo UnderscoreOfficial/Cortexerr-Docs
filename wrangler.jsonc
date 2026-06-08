@@ -6,6 +6,9 @@
     "nodejs_compat"
   ],
   "pages_build_output_dir": "./dist",
+  "assets": {
+    "directory": "./dist"
+  },
   "route": {
     "pattern": "docs.underscoreofficial.com/cortexerr/*",
     "custom_domain": true
