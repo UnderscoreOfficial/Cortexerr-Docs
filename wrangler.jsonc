@@ -5,7 +5,7 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "pages_build_output_dir": "./dist"
+  "pages_build_output_dir": "./dist",
   "route": {
     "pattern": = "docs.underscoreofficial.com/cortexerr/*",
     "custom_domain": true
