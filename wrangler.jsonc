@@ -9,4 +9,8 @@
   "assets": {
     "directory": "./dist"
   },
+  "route": {
+    "pattern": "cortexerr.underscoreofficial.com",
+    "custom_domain": true
+  }
 }
